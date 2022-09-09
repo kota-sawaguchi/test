@@ -1,0 +1,2 @@
+svchost.exe サービス ホスト: Diagnostic Policy Service
+vm関連
